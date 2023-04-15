@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.gride29</groupId>
-	<artifactId>spring-boot-security-jwt-mongodb</artifactId>
+	<artifactId>spring-boot-security-data-mongodb</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-security-jwt-mongodb</name>
+	<name>spring-boot-security-data-mongodb</name>
 	<description>Demo project for Spring Boot Auth with Spring Security,
 		JWT, MongoDB</description>
 
