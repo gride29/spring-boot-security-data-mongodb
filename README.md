@@ -1,4 +1,4 @@
-# Spring Boot, Spring Security, Spring Data, MongoDB
+# spring-boot-security-data-mongodb
 
 This project serves as a scaffold for building applications that utilize JWT authentication using Spring Security and
 implement CRUD operations using Spring Data and MongoDB database.
