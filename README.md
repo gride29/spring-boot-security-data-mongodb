@@ -97,3 +97,13 @@ To run application use:
 ```
 mvn spring-boot:run
 ```
+
+To set environment variable in Windows based systems use:
+```
+Set-Item -Path env:MY_VAR -Value "hello world"
+```
+
+To view all set environment variables in Windows based systems use:
+```
+Get-ChildItem Env:
+```
