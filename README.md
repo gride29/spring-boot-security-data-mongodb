@@ -3,7 +3,7 @@
 This project serves as a scaffold for building applications that utilize JWT authentication using Spring Security and
 implement CRUD operations using Spring Data and MongoDB database.
 
-It is based on this article https://www.bezkoder.com/spring-boot-mongodb-reactive/.
+Based on: https://www.bezkoder.com/spring-boot-mongodb-reactive/.
 
 ### Overview of registration, login and authorization process:
 
